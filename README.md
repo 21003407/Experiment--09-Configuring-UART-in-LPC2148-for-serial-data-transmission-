@@ -1,7 +1,7 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
 
-Name :	Bairav Skandan Loha
-Roll no : 212221230010
+Name :	A joans jay authers
+Roll no : 212221240019
 Date of experiment : 24-11-22
 
 Date: 24-11-22
